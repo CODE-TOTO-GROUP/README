@@ -1,3 +1,4 @@
-这是CODE-TOTO的组织。
+这是CODE-TOTO-GROUP的自述仓库。
 
-欢迎你来到这里。
+想加入请在Lssues中提出。
+
